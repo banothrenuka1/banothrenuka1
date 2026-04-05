@@ -2,13 +2,13 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj?w=198&h=180&c=7&r=0&o=7&pid=1.7&rm=3">;
 
-- 🔭 I’m currently working on [OTP generater](https://github.com/banothrenuka1/capstone5)
+- 🔭 I’m currently working on [Authentication Code generater](https://github.com/banothrenuka1/capstone5)
 
 - 🌱 I’m currently learning **python, MySQL, Django**
 
-- 👯 I’m looking to collaborate on [Login form](https://github.com/banothre/capstone1nuka1/)
+- 👯 I’m looking to collaborate on [User Authentication System](https://github.com/banothre/capstone1nuka1/)
 
-- 🤝 I’m looking for help with [Todo Application](https://github.com/banothrenuka1/capstone4)
+- 🤝 I’m looking for help with [Task Management Application](https://github.com/banothrenuka1/capstone4)
 
 - 📝 I regularly write articles on [HTML, MySQL](HTML, MySQL)
 
